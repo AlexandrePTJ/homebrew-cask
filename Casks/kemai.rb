@@ -1,6 +1,6 @@
 cask "kemai" do
-  version "0.10.0"
-  sha256 "58d53bb04250a2313070a2238bf9ee2451201cf57447ab80fa600aa8e91ae507"
+  version "0.11.0"
+  sha256 "450c00aa740384e8979a49b72f8c2171ff5f3f783096962d21d2dabeb15d1397"
 
   url "https://github.com/AlexandrePTJ/kemai/releases/download/#{version}/Kemai-#{version}-NoUpdate.dmg"
   name "Kemai"
